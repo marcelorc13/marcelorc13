@@ -5,7 +5,7 @@ Currently focused on expanding my knowledge in Front-End.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorc13&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block;"><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,py,github,js,html,css,bootstrap,git&theme=dark&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,firebase,github,js,html,css,bootstrap,git&theme=dark&perline=5)](https://skillicons.dev)
   
 </div>
 
