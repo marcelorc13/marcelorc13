@@ -4,7 +4,7 @@ Currently focused on expanding my knowledge learning TypeScript.
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorc13&hide_progress=true&theme=algolia)
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,firebase,py,github,cpp,ts,js,html,css,git&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,firebase,express,nodejs,mysql,vercel,ts,js,html,css&theme=dark&perline=4)](https://skillicons.dev)
   
   
 </div>
