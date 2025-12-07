@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Marcelo</h1>
-<h4 align="center">Software Developer from Maceió, Brazil</h4>
+<h4 align="center">Software Developer</h4>
 
 <h2 align="center">🧐 About Me</h2>
 
